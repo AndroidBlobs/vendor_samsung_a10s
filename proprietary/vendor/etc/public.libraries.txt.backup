@@ -1,0 +1,5 @@
+libMcClient.so
+libMcRegistry.so
+libOpenCL.so
+libhumantracking_util.camera.samsung.so
+libsmart_cropping.camera.samsung.so
