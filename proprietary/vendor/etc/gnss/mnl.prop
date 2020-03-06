@@ -1,0 +1,13 @@
+################################
+# NE/EE triggering Settings
+################################
+# Description: Configuration file for GPS module
+# File path: /data/misc/gps/mnl.prop
+# Trigger_NE  0: Disable NE trigger (default), 1: Enable NE trigger
+# Trigger_EE  0: Disable EE trigger (default), 1: Enable EE trigger
+# NLP_enable  0: Disable NLP request,          1: Enable NLP request (default)
+Trigger_NE=0
+Trigger_EE=0
+NLP_enable=0
+# Apply RF Loss value
+RfPathLossDb_Ap=5.0
